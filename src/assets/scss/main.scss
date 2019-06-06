@@ -1,0 +1,20 @@
+// Core
+
+@import "custom/functions";
+@import "custom/variables";
+@import "custom/mixins";
+
+// Utilities and components
+
+@import "custom/reboot";
+@import "custom/utilities";
+@import "custom/components";
+
+// Vendor (Plugins)
+
+@import "custom/vendors";
+
+// Bootstrap components
+
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap-vue/src/index.scss";
