@@ -1,5 +1,5 @@
-# freelancer-admin
+# Freelancer Admin
 Admin to manage your work
 
-# template
-https://demos.creative-tim.com/argon-dashboard/index.html
+# Demo
+https://freelanceradmin.netlify.com/
